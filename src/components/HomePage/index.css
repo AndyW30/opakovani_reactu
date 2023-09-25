@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.heading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2rem;
+  font-weight: 200;
+}
+
+.normalText {
+  color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.lowerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 60%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.textAboveProducts {
+  max-width: 70%;
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+.header {
+  background-color: rgb(244, 242, 242);
+  width: 75%;
+  height: 4.5rem;
+  padding-left: 10%;
+  margin-top: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.8rem;
+  display: flex;
+  align-items: center;
+}
